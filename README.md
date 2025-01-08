@@ -16,7 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-### 1/8
+
+## 1/8
 - flutter를 로컬에 설치하고 기본적인 세팅을 마침
 - 참고자료: (기본 준비사항: java, 안드로이드 스튜디오, visdual studio) / 만약 권한이 없다고 설치 오류가 난다면 window powershell을 관리자 권한으로 실행해서 설치를 진행함. / 
   Window를 사용하는 사용자 기준으로 나름 설치 방법을 공유해봤습니다.
